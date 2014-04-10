@@ -12,7 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Bienvenidos al grupo Comit y este grupo esta formado por: ");
+	puts("Bienvenidos al grupo Codec y este grupo esta formado por: ");
 	puts("gise lopez ");
 	return EXIT_SUCCESS;
 }
