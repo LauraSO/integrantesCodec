@@ -14,5 +14,6 @@
 int main(void) {
 	puts("Bienvenidos al grupo Codec y este grupo esta formado por: ");
 	puts("gise lopez ");
+	puts("Laura Ferreri");
 	return EXIT_SUCCESS;
 }
